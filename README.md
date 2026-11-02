@@ -3,7 +3,13 @@
 Ryutaro Yonezu — Independent Researcher  
 Version **v1.0** · November 2, 2026 · **Preprint** · **All rights reserved**
 
-This package is the v1.0 publication artifact. Actual publication completion and public URLs are confirmed separately in the repository and publication receipt after registration.
+**Published on November 2, 2026.**
+
+- [GitHub Release v1.0](https://github.com/yonezaemon1-hub/no50-binary-deletion-channel-switching/releases/tag/v1.0)
+- [Zenodo preprint](https://zenodo.org/records/23883910) · [DOI 10.5281/zenodo.23883910](https://doi.org/10.5281/zenodo.23883910)
+- [Publication receipt](PUBLICATION_RECEIPT.md)
+
+The public PDF and ZIP were downloaded again from both services: all four files match the original SHA256 and bytes. The reproducibility ZIP is the immutable publication-preparation snapshot; its prepared-stage status is historical. This live README and STATUS.txt were updated only after publication was confirmed.
 
 ## Established finite-length results
 

@@ -10,6 +10,10 @@ NOVELTY: INCONCLUSIVE
 PEER REVIEW: Not human peer-reviewed
 RIGHTS: All rights reserved
 PUBLICATION TYPE: Preprint
-PUBLICATION: v1.0 prepared for publication; successful public registration must be confirmed in the separate publication receipt.
+PUBLICATION: Published; GitHub Release v1.0 and Zenodo Preprint both confirmed.
+DOI: 10.5281/zenodo.23883910
+ZENODO: https://zenodo.org/records/23883910
+GITHUB RELEASE: https://github.com/yonezaemon1-hub/no50-binary-deletion-channel-switching/releases/tag/v1.0
+PUBLIC FILES: 4/4 SHA256 and byte-identical redownloads PASS
 SOURCE: No50_v0.2.1_WINDOWS_FIX_AUDIT_HOLD_20261102.zip
 SCOPE: The mathematical text in sections 1–7, all three Python verifiers, three evidence JSONs, and the PowerShell audit script are unchanged.

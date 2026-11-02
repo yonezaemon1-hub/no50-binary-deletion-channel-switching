@@ -4,7 +4,7 @@
 
 著者: Ryutaro Yonezu — Independent Researcher / 2026-11-02 / v1.0 / Preprint / All rights reserved。
 
-現時点のファイルは公開準備版。公開完了は公開ページと別紙の公開記録で確認する。
+GitHub・Zenodo正式公開済み。DOI: 10.5281/zenodo.23883910。公開PDF/ZIPは4件すべて再取得しSHA256・バイト一致を確認。再現ZIP内の準備中表記は凍結時点の履歴。詳細は PUBLICATION_RECEIPT.md。
 
 有限長 n=4,5,6,7,8 の最適距離多項式の切替回数は各1,1,2,3,3。全区間を厳密有理数で検証する計算機支援証明。
 
