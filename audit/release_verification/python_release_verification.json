@@ -1,0 +1,20 @@
+[
+  {
+    "script": "verify_no50.py",
+    "exit_code": 0,
+    "json_byte_identical": true,
+    "output_sha256": "0c7559d148a38eea16e54c334f56349d1ece9f4f900aa97db26f4cd6ede4c0cc"
+  },
+  {
+    "script": "verify_envelope_n6_n8.py",
+    "exit_code": 0,
+    "json_byte_identical": true,
+    "output_sha256": "c2df631f71dc28c975396d8b88112682f64557fcf81f5f083b477f8633468392"
+  },
+  {
+    "script": "independent_mask_audit.py",
+    "exit_code": 0,
+    "json_byte_identical": true,
+    "output_sha256": "bfd9ac484e3657238cb43cd778b75f32d2e414995a16b1518450b8fa408844de"
+  }
+]

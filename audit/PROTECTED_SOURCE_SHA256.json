@@ -1,0 +1,19 @@
+{
+  "source_zip": "No50_v0.2.1_WINDOWS_FIX_AUDIT_HOLD_20261102.zip",
+  "source_zip_sha256": "0ac639cd64810cba079155362de35a6f436560a8bd9d6dd631b42905a4b5a115",
+  "protected_files": {
+    "code/independent_mask_audit.py": "517d9f7978ad1dbfd232261053d702f6c4191a20cda2bf6bdaf923d97ff83640",
+    "code/verify_envelope_n6_n8.py": "537619ef3aa58945853dcc94cc3200957bcc8f0b5e99969d13ef9c6a54623dd4",
+    "code/verify_no50.py": "eba5f4538939b3c19046ad9b8633af5f5671336a81ac0161d04b09667b3fa8e5",
+    "evidence/envelope_n6_n8.json": "c2df631f71dc28c975396d8b88112682f64557fcf81f5f083b477f8633468392",
+    "evidence/independent_mask_results.json": "bfd9ac484e3657238cb43cd778b75f32d2e414995a16b1518450b8fa408844de",
+    "evidence/verified_results.json": "0c7559d148a38eea16e54c334f56349d1ece9f4f900aa97db26f4cd6ede4c0cc",
+    "references/SOURCES.md": "8a1ede017ece8e6c9dec7526e0c6b26a6e4da877060213e45f67461a37a181bd",
+    "audit/AUDIT_REQUEST_JA.md": "8cac418833bc9f0b39499b9dad3b5b44cf0bb7f917b57566590ef563052671b2",
+    "audit/RESEARCH_CHRONOLOGY_JA.md": "d95b6e229fcf89f968da97b0c23568ae08ae3113e3a0e6740165c19c3f4d02e5",
+    "audit/V01_TO_V02_CHANGELOG_JA.md": "788829d7ee7a0c23e79f376af6f85b96e806ac66f5bd046badbd219250dadd98",
+    "audit/V02_TO_V021_WINDOWS_FIX_JA.md": "179885c1ed3fbddf5a24097c9484f1dad6acd7ae0b3f04da7868e70bbad9f1dc",
+    "run_audit_windows.ps1": "4403e8cd0168ccacd0effb8464445071c46eb32f8b7356486fe2f0d036137d19"
+  },
+  "mathematical_sections_1_through_7_sha256": "b4377a7fb99ea3215aa073bc0e1ae095fe74234a7a9c45946ae9500222b8a4fe"
+}

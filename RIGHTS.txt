@@ -1,0 +1,7 @@
+Copyright (c) 2026 Ryutaro Yonezu. All rights reserved.
+
+This preprint and its accompanying source code, data and research records are
+made publicly available for scholarly inspection and reproducibility.
+No MIT, Apache, Creative Commons or other general open-content or open-source
+license is granted. Rights not otherwise provided by applicable law are reserved.
+This notice does not override any rights belonging to cited third-party works.

@@ -1,0 +1,90 @@
+{
+  "comparisons": [
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "801/2048",
+      "n": 6,
+      "q": "1/4"
+    },
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "308/3125",
+      "n": 6,
+      "q": "3/5"
+    },
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "377/15625",
+      "n": 6,
+      "q": "4/5"
+    },
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "801/2048",
+      "n": 7,
+      "q": "1/4"
+    },
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "308/3125",
+      "n": 7,
+      "q": "3/5"
+    },
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "335/8192",
+      "n": 7,
+      "q": "3/4"
+    },
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "1677/78125",
+      "n": 7,
+      "q": "4/5"
+    },
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "22689/65536",
+      "n": 8,
+      "q": "1/4"
+    },
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "6764/78125",
+      "n": 8,
+      "q": "3/5"
+    },
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "1079/32768",
+      "n": 8,
+      "q": "3/4"
+    },
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "7233/390625",
+      "n": 8,
+      "q": "4/5"
+    },
+    {
+      "all_winning_polynomials_in_envelope_candidates": true,
+      "distinct_winning_polynomial_count": 1,
+      "minimum_TV": "83831/50000000",
+      "n": 8,
+      "q": "9/10"
+    }
+  ],
+  "independent_method": "direct mask enumeration in dicts + integer rational TV",
+  "version": "v0.2"
+}

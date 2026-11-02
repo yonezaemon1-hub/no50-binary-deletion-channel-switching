@@ -1,0 +1,20 @@
+PASS: 26 SHA256 file hashes
+PASS: 616 pairs x 2 intervals = 1,232 exact Bernstein certificates (n=4,5).
+PASS: n=7 all 8,128 pairs at four q; singleton, pairwise-disjoint winning polynomial sets.
+PASS: n=8 all 32,640 pairs at q=4/5; 256 insertion operations fail.
+PASS: selected DP coefficients agree with direct deletion-mask enumeration.
+NOT PROVED: unbounded number of switches or general recursive optimizer.
+STATUS: AUDIT_HOLD, novelty INCONCLUSIVE, no independent AI audit.
+PASS: verifier + exact JSON match: /workspace/scratch/c8897384e490/release/No50_v1.0_20261102/code/verify_no50.py
+PASS n=6: 2016 pair comparisons / 260 polynomials / 0 exceptions / 2 exact switches
+PASS n=7: 8128 pair comparisons / 1190 polynomials / 0 exceptions / 3 exact switches
+PASS n=8: 32640 pair comparisons / 5835 polynomials / 6 exceptions / 3 exact switches
+UNPROVED: unbounded switching or a recursive optimizer for all lengths.
+PASS: verifier + exact JSON match: /workspace/scratch/c8897384e490/release/No50_v1.0_20261102/code/verify_envelope_n6_n8.py
+INDEPENDENT MASK PASS: n=6, 64 words, 3 rational parameters
+INDEPENDENT MASK PASS: n=7, 128 words, 4 rational parameters
+INDEPENDENT MASK PASS: n=8, 256 words, 5 rational parameters
+INDEPENDENT MASK AUDIT PASS: all 12 rational checkpoints
+PASS: verifier + exact JSON match: /workspace/scratch/c8897384e490/release/No50_v1.0_20261102/code/independent_mask_audit.py
+ALL PASS: HASH + FINITE PROOFS + INDEPENDENT TV CHECK
+No proof of unbounded switching; NOVELTY INCONCLUSIVE; PUBLICATION HOLD.

@@ -1,0 +1,4 @@
+PASS n=6: 2016 pair comparisons / 260 polynomials / 0 exceptions / 2 exact switches
+PASS n=7: 8128 pair comparisons / 1190 polynomials / 0 exceptions / 3 exact switches
+PASS n=8: 32640 pair comparisons / 5835 polynomials / 6 exceptions / 3 exact switches
+UNPROVED: unbounded switching or a recursive optimizer for all lengths.

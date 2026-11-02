@@ -1,0 +1,4 @@
+INDEPENDENT MASK PASS: n=6, 64 words, 3 rational parameters
+INDEPENDENT MASK PASS: n=7, 128 words, 4 rational parameters
+INDEPENDENT MASK PASS: n=8, 256 words, 5 rational parameters
+INDEPENDENT MASK AUDIT PASS: all 12 rational checkpoints

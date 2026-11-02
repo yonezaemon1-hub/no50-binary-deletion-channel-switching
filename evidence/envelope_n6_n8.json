@@ -1,0 +1,616 @@
+{
+  "lengths": [
+    {
+      "coefficientwise_dominated_poly_count": 260,
+      "exact_interior_switch_count": 2,
+      "exception_certificates": [],
+      "exception_poly_count": 0,
+      "n": 6,
+      "proof_method": "exact coefficient dominance + exact Bernstein + unique-root interval isolation",
+      "regular_intervals": [
+        {
+          "lower": "0",
+          "upper": "1/2",
+          "winner_index_0_based": 0
+        },
+        {
+          "lower": "1/2",
+          "upper": "11923/15625",
+          "winner_index_0_based": 1
+        },
+        {
+          "lower": "763073/1000000",
+          "upper": "1",
+          "winner_index_0_based": 2
+        }
+      ],
+      "transition_certificates": [
+        {
+          "defining_root_polynomial_ascending_coefficients": [
+            -1,
+            2
+          ],
+          "exact_rational_root": true,
+          "index": 0,
+          "lower": "1/2",
+          "upper": "1/2"
+        },
+        {
+          "defining_root_polynomial_ascending_coefficients": [
+            -3,
+            6,
+            -5,
+            3
+          ],
+          "exact_rational_root": false,
+          "index": 1,
+          "lower": "11923/15625",
+          "unique_root_certified_by_positive_derivative_Bernstein": true,
+          "upper": "763073/1000000"
+        }
+      ],
+      "unique_distance_polynomials": 260,
+      "winner_a_coefficients": [
+        [
+          0,
+          0,
+          1,
+          2,
+          4,
+          2,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          2,
+          3,
+          3,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          4,
+          6,
+          6,
+          1
+        ]
+      ],
+      "winner_pairs": [
+        [
+          "000100",
+          "001000"
+        ],
+        [
+          "010110",
+          "011010"
+        ],
+        [
+          "001101",
+          "010011"
+        ]
+      ],
+      "winner_power_coefficients": [
+        [
+          1,
+          -4,
+          9,
+          -14,
+          14,
+          -8,
+          2
+        ],
+        [
+          1,
+          -3,
+          3,
+          0,
+          -2,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          -9,
+          20,
+          -21,
+          12,
+          -3
+        ]
+      ],
+      "word_pairs": 2016
+    },
+    {
+      "coefficientwise_dominated_poly_count": 1190,
+      "exact_interior_switch_count": 3,
+      "exception_certificates": [],
+      "exception_poly_count": 0,
+      "n": 7,
+      "proof_method": "exact coefficient dominance + exact Bernstein + unique-root interval isolation",
+      "regular_intervals": [
+        {
+          "lower": "0",
+          "upper": "1/2",
+          "winner_index_0_based": 0
+        },
+        {
+          "lower": "1/2",
+          "upper": "371311/500000",
+          "winner_index_0_based": 1
+        },
+        {
+          "lower": "742623/1000000",
+          "upper": "98519/125000",
+          "winner_index_0_based": 2
+        },
+        {
+          "lower": "788153/1000000",
+          "upper": "1",
+          "winner_index_0_based": 3
+        }
+      ],
+      "transition_certificates": [
+        {
+          "defining_root_polynomial_ascending_coefficients": [
+            -1,
+            2
+          ],
+          "exact_rational_root": true,
+          "index": 0,
+          "lower": "1/2",
+          "upper": "1/2"
+        },
+        {
+          "defining_root_polynomial_ascending_coefficients": [
+            -3,
+            6,
+            -3,
+            -1,
+            2
+          ],
+          "exact_rational_root": false,
+          "index": 1,
+          "lower": "371311/500000",
+          "unique_root_certified_by_positive_derivative_Bernstein": true,
+          "upper": "742623/1000000"
+        },
+        {
+          "defining_root_polynomial_ascending_coefficients": [
+            -7,
+            1,
+            10
+          ],
+          "exact_rational_root": false,
+          "index": 2,
+          "lower": "98519/125000",
+          "unique_root_certified_by_positive_derivative_Bernstein": true,
+          "upper": "788153/1000000"
+        }
+      ],
+      "unique_distance_polynomials": 1190,
+      "winner_a_coefficients": [
+        [
+          0,
+          0,
+          1,
+          3,
+          6,
+          6,
+          3,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          3,
+          5,
+          6,
+          4,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          4,
+          8,
+          12,
+          7,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          21,
+          19,
+          7,
+          1
+        ]
+      ],
+      "winner_pairs": [
+        [
+          "0000100",
+          "0001000"
+        ],
+        [
+          "0010110",
+          "0011010"
+        ],
+        [
+          "0011001",
+          "0100101"
+        ],
+        [
+          "0110001",
+          "1000110"
+        ]
+      ],
+      "winner_power_coefficients": [
+        [
+          1,
+          -4,
+          9,
+          -14,
+          14,
+          -8,
+          2,
+          0
+        ],
+        [
+          1,
+          -3,
+          3,
+          0,
+          -2,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          -9,
+          18,
+          -13,
+          0,
+          5,
+          -2
+        ],
+        [
+          1,
+          0,
+          -2,
+          -4,
+          1,
+          20,
+          -24,
+          8
+        ]
+      ],
+      "word_pairs": 8128
+    },
+    {
+      "coefficientwise_dominated_poly_count": 5829,
+      "exact_interior_switch_count": 3,
+      "exception_certificates": [
+        {
+          "coefficient_vector": [
+            0,
+            0,
+            1,
+            4,
+            8,
+            12,
+            8,
+            4,
+            1
+          ],
+          "representative_pair": [
+            "00000100",
+            "00001000"
+          ],
+          "witness_index_0_based_for_[0,1/2]_[1/2,1]": [
+            0,
+            0
+          ]
+        },
+        {
+          "coefficient_vector": [
+            0,
+            0,
+            0,
+            4,
+            11,
+            22,
+            16,
+            8,
+            1
+          ],
+          "representative_pair": [
+            "00011011",
+            "00100111"
+          ],
+          "witness_index_0_based_for_[0,1/2]_[1/2,1]": [
+            0,
+            2
+          ]
+        },
+        {
+          "coefficient_vector": [
+            0,
+            0,
+            0,
+            8,
+            16,
+            26,
+            16,
+            8,
+            1
+          ],
+          "representative_pair": [
+            "00101101",
+            "01001011"
+          ],
+          "witness_index_0_based_for_[0,1/2]_[1/2,1]": [
+            0,
+            2
+          ]
+        },
+        {
+          "coefficient_vector": [
+            0,
+            0,
+            0,
+            8,
+            16,
+            28,
+            16,
+            8,
+            1
+          ],
+          "representative_pair": [
+            "00110101",
+            "01010011"
+          ],
+          "witness_index_0_based_for_[0,1/2]_[1/2,1]": [
+            0,
+            2
+          ]
+        },
+        {
+          "coefficient_vector": [
+            0,
+            0,
+            0,
+            0,
+            28,
+            34,
+            28,
+            8,
+            1
+          ],
+          "representative_pair": [
+            "01101001",
+            "10010110"
+          ],
+          "witness_index_0_based_for_[0,1/2]_[1/2,1]": [
+            0,
+            3
+          ]
+        },
+        {
+          "coefficient_vector": [
+            0,
+            0,
+            1,
+            3,
+            7,
+            11,
+            9,
+            4,
+            1
+          ],
+          "representative_pair": [
+            "01101110",
+            "01110110"
+          ],
+          "witness_index_0_based_for_[0,1/2]_[1/2,1]": [
+            0,
+            1
+          ]
+        }
+      ],
+      "exception_poly_count": 6,
+      "n": 8,
+      "proof_method": "exact coefficient dominance + exact Bernstein + unique-root interval isolation",
+      "regular_intervals": [
+        {
+          "lower": "0",
+          "upper": "272461/500000",
+          "winner_index_0_based": 0
+        },
+        {
+          "lower": "544923/1000000",
+          "upper": "5743/8000",
+          "winner_index_0_based": 1
+        },
+        {
+          "lower": "179469/250000",
+          "upper": "165201/200000",
+          "winner_index_0_based": 2
+        },
+        {
+          "lower": "413003/500000",
+          "upper": "1",
+          "winner_index_0_based": 3
+        }
+      ],
+      "transition_certificates": [
+        {
+          "defining_root_polynomial_ascending_coefficients": [
+            -2,
+            6,
+            -7,
+            5
+          ],
+          "exact_rational_root": false,
+          "index": 0,
+          "lower": "272461/500000",
+          "unique_root_certified_by_positive_derivative_Bernstein": true,
+          "upper": "544923/1000000"
+        },
+        {
+          "defining_root_polynomial_ascending_coefficients": [
+            -3,
+            6,
+            0,
+            -6,
+            2,
+            2
+          ],
+          "exact_rational_root": false,
+          "index": 1,
+          "lower": "5743/8000",
+          "unique_root_certified_by_positive_derivative_Bernstein": true,
+          "upper": "179469/250000"
+        },
+        {
+          "defining_root_polynomial_ascending_coefficients": [
+            -4,
+            1,
+            3,
+            2
+          ],
+          "exact_rational_root": false,
+          "index": 2,
+          "lower": "165201/200000",
+          "unique_root_certified_by_positive_derivative_Bernstein": true,
+          "upper": "413003/500000"
+        }
+      ],
+      "unique_distance_polynomials": 5835,
+      "winner_a_coefficients": [
+        [
+          0,
+          0,
+          1,
+          3,
+          9,
+          9,
+          9,
+          3,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          3,
+          7,
+          10,
+          9,
+          5,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          4,
+          7,
+          16,
+          18,
+          8,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          21,
+          38,
+          26,
+          8,
+          1
+        ]
+      ],
+      "winner_pairs": [
+        [
+          "00001000",
+          "00010000"
+        ],
+        [
+          "00101100",
+          "00110100"
+        ],
+        [
+          "01011001",
+          "01100101"
+        ],
+        [
+          "00110001",
+          "01000110"
+        ]
+      ],
+      "winner_power_coefficients": [
+        [
+          1,
+          -5,
+          16,
+          -38,
+          64,
+          -74,
+          56,
+          -25,
+          5
+        ],
+        [
+          1,
+          -3,
+          2,
+          5,
+          -13,
+          14,
+          -8,
+          2,
+          0
+        ],
+        [
+          1,
+          0,
+          -10,
+          20,
+          -13,
+          0,
+          0,
+          4,
+          -2
+        ],
+        [
+          1,
+          0,
+          -2,
+          -6,
+          11,
+          0,
+          -4,
+          -2,
+          2
+        ]
+      ],
+      "word_pairs": 32640
+    }
+  ],
+  "mathematical_claim": "EXACT finite envelopes n=6,7,8; NOT unbounded switching",
+  "novelty": "INCONCLUSIVE",
+  "status": "AUDIT_HOLD",
+  "version": "v0.2"
+}

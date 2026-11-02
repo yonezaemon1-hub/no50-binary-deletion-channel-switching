@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-02",
+  "source_manifest_files": 17,
+  "source_manifest": "PASS",
+  "independent_ai_audit": "PASS for finite-length results (author-supplied outcome)",
+  "windows_powershell_5_1": "PASS for v0.2.1 (author-reported); not rerun on Windows in this Linux environment",
+  "current_python": "Python 3.12.14",
+  "current_powershell": "PowerShell 7.6.9 on Linux; unchanged script exit 0; ALL PASS: HASH + FINITE PROOFS + INDEPENDENT TV CHECK",
+  "python_verifiers": "3/3 PASS; each output byte-identical to its frozen JSON",
+  "finite_n4_n8": "PASS; switch counts 1,1,2,3,3",
+  "independent_mask": "PASS; exhaustive minima at 12 rational checkpoints",
+  "insertion_operations": 256,
+  "insertion_counterexample": "PASS",
+  "protected_files": 12,
+  "protected_files_byte_identical": true,
+  "mathematical_sections_1_through_7": "byte-identical source text",
+  "pdf": "5 pages; generated from v1.0 manuscript with pandoc/xelatex; all pages visually inspected",
+  "general_conjecture": "UNPROVEN",
+  "novelty": "INCONCLUSIVE",
+  "peer_review": "Not human peer-reviewed",
+  "publication_status_at_packaging": "Prepared; confirm completion in separate publication receipt"
+}

@@ -1,0 +1,15 @@
+No.50 v1.0 | 2026-11-02
+AUTHOR: Ryutaro Yonezu — Independent Researcher
+TITLE: Finite-Length Switching and Limitations of Recursive Constructions in Binary Deletion Channels
+MATHEMATICS: Finite-length results PASS; S(4..8)=1,1,2,3,3
+GENERAL CONJECTURE: UNPROVEN
+FAILED CONSTRUCTION: Counterexample verified (256 same-q common-bit insertion operations)
+INDEPENDENT AI AUDIT: PASS for finite-length results (author-supplied outcome)
+WINDOWS POWERSHELL REPRODUCTION: PASS for v0.2.1 (author-reported 2026-11-02)
+NOVELTY: INCONCLUSIVE
+PEER REVIEW: Not human peer-reviewed
+RIGHTS: All rights reserved
+PUBLICATION TYPE: Preprint
+PUBLICATION: v1.0 prepared for publication; successful public registration must be confirmed in the separate publication receipt.
+SOURCE: No50_v0.2.1_WINDOWS_FIX_AUDIT_HOLD_20261102.zip
+SCOPE: The mathematical text in sections 1–7, all three Python verifiers, three evidence JSONs, and the PowerShell audit script are unchanged.
