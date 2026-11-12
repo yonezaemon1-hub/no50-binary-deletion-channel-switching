@@ -73,3 +73,10 @@ The script and the Python verifiers retain historical v0.2/AUDIT HOLD console la
 ## Rights and claim limits
 
 Copyright (c) 2026 Ryutaro Yonezu. **All rights reserved.** No open-source or Creative Commons license is granted. Classical subsequence-deck methods, the elementary certification technique and local stability are not claimed as new. See `references/SOURCES.md` and the manuscript references. No priority guarantee, human peer-review claim, or general unbounded-switch theorem is made.
+
+## Author correspondence (metadata update, 2026-11-12)
+
+**Ryutaro Yonezu — Independent Researcher**  
+Research correspondence: **yonezaemon1+research@gmail.com**
+
+This contact-information addition does not revise any mathematical claims, frozen verification files, published preprint PDF, release assets, DOI, or existing SHA256 checksums.
